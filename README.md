@@ -1,6 +1,6 @@
 # ita-converter
 
-`ita-converter` is a lightweight and fast Python library that converts an image to ASCII art. It allows users to resize images, convert them to grayscale, and customize the symbols used to create the ASCII art.
+ita-converter is a lightweight and fast Python library that converts an image to ASCII art. It allows users to resize images, convert them to grayscale, and customize the symbols used to create the ASCII art.
 
 ## Installation
 
