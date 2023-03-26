@@ -4,14 +4,14 @@ ita-converter is a lightweight and fast Python library that converts an image to
 
 ## Installation
 
-You can install `ita-converter` using pip:
+You can install ita-converter using pip:
 ```
 pip install ita-converter 
 ```
 
 ## Usage
 
-To use `ita-converter`, simply import the `get_ascii_art()` function and pass in the path to the image file you want to convert. By default, the function will use a set of ASCII characters to create the art, but you can also pass in your own symbol set.
+To use ita-converter, simply import the `get_ascii_art()` function and pass in the path to the image file you want to convert. By default, the function will use a set of ASCII characters to create the art, but you can also pass in your own symbol set.
 
 ```python
 from ita_converter import get_ascii_art
@@ -31,8 +31,8 @@ print(ascii_art)
 ```
 ## Contributing
 
-Contributions to `ita-converter` are welcome! If you have an idea for a new feature or want to report a bug, please open an issue. If you want to contribute code, please fork the repository, make your changes, and submit a pull request.
+Contributions are welcome! If you have an idea for a new feature or want to report a bug, please open an issue. If you want to contribute code, please fork the repository, make your changes, and submit a pull request.
 
 ## License
 
-`ita-converter` is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+ita-converter is licensed under the [MIT License](https://opensource.org/licenses/MIT).
