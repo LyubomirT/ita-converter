@@ -31,7 +31,7 @@ print(ascii_art)
 ```
 ## Contributing
 
-Contributions to `ita-converter` are welcome! If you have an idea for a new feature or want to report a bug, please open an issue on the [GitHub repository](https://github.com/LyubomirT/ita-converter). If you want to contribute code, please fork the repository, make your changes, and submit a pull request.
+Contributions to `ita-converter` are welcome! If you have an idea for a new feature or want to report a bug, please open an issue. If you want to contribute code, please fork the repository, make your changes, and submit a pull request.
 
 ## License
 
