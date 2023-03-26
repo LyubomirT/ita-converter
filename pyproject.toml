@@ -1,0 +1,23 @@
+[project]
+name="ita-converter"
+description = "ita-converter - convert your images to ASCII art easily!"
+version = "0.8.8"
+readme = "README.md"
+authors = [
+    { name = "Lyubomir T", email = "ternavski103@gmail.com" }
+]
+dependencies = [
+    "numpy",
+    "Pillow"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python"
+]
+
+[tools.flit.metadata]
+module = "ita_converter.py"
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2<4"]
